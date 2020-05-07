@@ -10,6 +10,10 @@
 <body>
     <h1>Coba git remote lagi</h1>
     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde, ullam!</p>
+    <ul>
+        <li>shahaha</li>
+        <li>satu</li>
+    </ul>
 </body>
 
 </html>
